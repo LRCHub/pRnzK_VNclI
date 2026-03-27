@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Blow Your Cover",
+  "base_artist": "Number_i",
+  "createdAt": "2026-03-27T19:44:38.709014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blow Your Cover",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/01_Blow_Your_Cover_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blow Your Cover",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/02_Blow_Your_Cover_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blow Your Cover",
+      "artist": "Number_i",
+      "has_synced": false,
+      "path": "select/03_Blow_Your_Cover_Number_i.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blow Your Cover",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/04_Blow_Your_Cover_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blow Your Cover (Sped Up)",
+      "artist": "Number_i",
+      "has_synced": true,
+      "path": "select/05_Blow_Your_Cover_(Sped_Up)_Number_i.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blow Your Cover (A Cappella)",
+      "artist": "Number_i",
+      "has_synced": false,
+      "path": "select/06_Blow_Your_Cover_(A_Cappella)_Number_i.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blow Your Cover",
+      "artist": "Space",
+      "has_synced": false,
+      "path": "select/07_Blow_Your_Cover_Space.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blow Your Cover",
+      "artist": "Number_i",
+      "has_synced": true,
+      "path": "select/08_Blow_Your_Cover_Number_i.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blow Your Cover",
+      "artist": "Number_i",
+      "has_synced": false,
+      "path": "select/pl_01_Blow_Your_Cover_Number_i.txt"
+    }
+  ]
+}
